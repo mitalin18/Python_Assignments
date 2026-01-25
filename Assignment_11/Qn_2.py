@@ -6,9 +6,7 @@ def GetCountOfDigit(no):
     while no > 0:
         Count = Count + 1
         no = no // 10
-    
     print( Count)
-
 
 
 def main():

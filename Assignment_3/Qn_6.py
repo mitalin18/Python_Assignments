@@ -1,6 +1,5 @@
 from sys import getsizeof
 
-
 x = input("Enter anything :")
 
 print("Data type is : ", type(x))

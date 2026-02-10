@@ -1,0 +1,13 @@
+--------------------------------------------------
+This is a log file created by Mitali
+This script renames all files with the given extension with desired extension
+--------------------------------------------------
+Renamed : Demo\Hello.txt to - Demo\Hello.doc 
+Renamed : Demo\Sample.txt to - Demo\Sample.doc 
+--------------------------------------------------
+Total files scanned :  4 
+Total files Renamed : 2 
+Log file created at :  Fri Feb  6 23:34:30 2026
+--------------------------------------------------
+--------------------------------------------------
+-------------------- Thank you -------------------

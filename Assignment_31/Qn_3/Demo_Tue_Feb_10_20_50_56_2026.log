@@ -1,0 +1,14 @@
+--------------------------------------------------
+This is a log file created by Mitali
+This script Copies all files from first directory into second directory
+--------------------------------------------------
+Skipped (Already exists) : Temp\DirectoryScan1.py 
+Copied : Demo\FileIO1.py to - Temp\FileIO1.py 
+Copied : Demo\Hello.txt to - Temp\Hello.txt 
+Skipped (Already exists) : Temp\Sample.txt 
+--------------------------------------------------
+Total files Copied : 2 
+Log file created at :  Tue Feb 10 20:50:56 2026
+--------------------------------------------------
+--------------------------------------------------
+-------------------- Thank you -------------------

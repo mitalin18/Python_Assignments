@@ -1,0 +1,12 @@
+--------------------------------------------------
+This is a log file created by Mitali
+This script Copies all files with the specified extension from first directory into second directory
+--------------------------------------------------
+Copied : Demo\Hello.txt to - Temp\Hello.txt 
+Skipped (Already exists) : Temp\Sample.txt 
+--------------------------------------------------
+Total files Copied : 1 
+Log file created at :  Tue Feb 10 21:11:02 2026
+--------------------------------------------------
+--------------------------------------------------
+-------------------- Thank you -------------------

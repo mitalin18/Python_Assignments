@@ -1,0 +1,13 @@
+--------------------------------------------------
+This is a log file created by Mitali
+Duplicate files detection Script
+--------------------------------------------------
+
+Duplicate Files
+Demo\FileIO1.py
+Demo\FileIO1_copy.py
+
+Duplicate Files
+Demo\Hello.txt
+Demo\Hello_copy.txt
+--------------------------------------------------

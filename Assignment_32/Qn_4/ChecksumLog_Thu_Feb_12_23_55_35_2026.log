@@ -1,0 +1,13 @@
+--------------------------------------------------
+This is a log file created by Mitali
+Duplicate Files Removal Script
+--------------------------------------------------
+
+Keeping original: Demo\FileIO1.py
+Deleted duplicate: Demo\FileIO1_copy.py
+
+Keeping original: Demo\Hello.txt
+Deleted duplicate: Demo\Hello_copy.txt
+--------------------------------------------------
+Total files deleted: 2
+--------------------------------------------------

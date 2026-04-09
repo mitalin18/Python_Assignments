@@ -1,0 +1,3117 @@
+--------------------------------------------------
+-----Marvellous Platform Surveillance System------
+Log Created at : Fri Apr 10 00:43:01 2026
+--------------------------------------------------
+
+------------------System Report---------------------
+CPU Usage :1.8 %
+--------------------------------------------------
+RAM Usage :93.7 %
+--------------------------------------------------
+
+Disk Usage Report : 
+--------------------------------------------------
+C:\ -> 86.6 % used
+ D:\ -> 44.7 % used
+ E:\ -> 90.4 % used
+ --------------------------------------------------
+
+Network Usage Report
+Sent : 9.58 MB
+Recv : 157.23 MB
+--------------------------------------------------
+pid : 0
+name : System Idle Process
+username : NT AUTHORITY\SYSTEM
+status : running
+start time : 1970-01-01 05:30:00
+CPU %: 531.0
+Memory %: 0.00010279219581090966
+RSS (MB) : 0.01
+VMS (MB) : 0.06
+Threads : 12
+Open Files : 22
+Timestamp : 2026-04-10 00:43:02
+--------------------------------------------------
+pid : 4
+name : System
+username : NT AUTHORITY\SYSTEM
+status : running
+start time : 1970-01-01 05:30:00
+CPU %: 0.0
+Memory %: 0.09991401432820418
+RSS (MB) : 7.59
+VMS (MB) : 0.08
+Threads : 311
+Open Files : 12
+Timestamp : 2026-04-10 00:43:02
+--------------------------------------------------
+pid : 92
+name : 
+username : None
+status : stopped
+start time : 2026-03-24 00:55:55
+CPU %: 0.0
+Memory %: 0.3293461953781545
+RSS (MB) : 25.03
+VMS (MB) : 0.18
+Threads : 0
+Open Files : 0
+Timestamp : 2026-04-10 00:43:02
+--------------------------------------------------
+pid : 140
+name : Registry
+username : None
+status : running
+start time : 2026-03-24 00:55:55
+CPU %: 0.0
+Memory %: 0.44678627909211877
+RSS (MB) : 33.96
+VMS (MB) : 13.04
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:02
+--------------------------------------------------
+pid : 184
+name : AsusSystemDiagnosis.exe
+username : None
+status : running
+start time : 2026-04-08 00:00:18
+CPU %: 0.0
+Memory %: 0.15305757956244445
+RSS (MB) : 11.63
+VMS (MB) : 2.5
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:02
+--------------------------------------------------
+pid : 288
+name : svchost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:24
+CPU %: 0.0
+Memory %: 0.3673279117302856
+RSS (MB) : 27.92
+VMS (MB) : 8.95
+Threads : 4
+Open Files : 11
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 568
+name : smss.exe
+username : None
+status : running
+start time : 2026-03-24 00:55:58
+CPU %: 0.0
+Memory %: 0.007606622490007313
+RSS (MB) : 0.58
+VMS (MB) : 1.11
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 576
+name : Code.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:04
+CPU %: 0.0
+Memory %: 3.1045812939789985
+RSS (MB) : 235.96
+VMS (MB) : 246.12
+Threads : 27
+Open Files : 20
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 820
+name : lsass.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:07
+CPU %: 0.0
+Memory %: 0.3061665552227944
+RSS (MB) : 23.27
+VMS (MB) : 13.84
+Threads : 11
+Open Files : 2
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 836
+name : services.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:07
+CPU %: 0.0
+Memory %: 0.1113753441611206
+RSS (MB) : 8.43
+VMS (MB) : 6.04
+Threads : 8
+Open Files : 2
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 840
+name : LsaIso.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:07
+CPU %: 0.0
+Memory %: 0.018040030364814642
+RSS (MB) : 1.37
+VMS (MB) : 2.63
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 880
+name : csrss.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:05
+CPU %: 0.0
+Memory %: 0.0432241183384875
+RSS (MB) : 3.29
+VMS (MB) : 2.43
+Threads : 17
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1004
+name : wininit.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:07
+CPU %: 0.0
+Memory %: 0.049443046185047544
+RSS (MB) : 3.76
+VMS (MB) : 1.62
+Threads : 2
+Open Files : 2
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1036
+name : RuntimeBroker.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:31
+CPU %: 0.0
+Memory %: 0.45619176500881703
+RSS (MB) : 34.67
+VMS (MB) : 7.67
+Threads : 8
+Open Files : 5
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1140
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:40:23
+CPU %: 0.0
+Memory %: 1.5711787129697539
+RSS (MB) : 119.41
+VMS (MB) : 60.76
+Threads : 18
+Open Files : 13
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1156
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:07
+CPU %: 0.0
+Memory %: 0.48595010569607533
+RSS (MB) : 36.93
+VMS (MB) : 22.55
+Threads : 13
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1184
+name : fontdrvhost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:07
+CPU %: 0.0
+Memory %: 0.014236719119810984
+RSS (MB) : 1.08
+VMS (MB) : 2.01
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1228
+name : WUDFHost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:07
+CPU %: 0.0
+Memory %: 0.09852631968475689
+RSS (MB) : 7.49
+VMS (MB) : 7.29
+Threads : 8
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1292
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:07
+CPU %: 0.0
+Memory %: 0.24325773138651768
+RSS (MB) : 18.49
+VMS (MB) : 15.02
+Threads : 11
+Open Files : 2
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1344
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:07
+CPU %: 0.0
+Memory %: 0.10053076750306962
+RSS (MB) : 7.64
+VMS (MB) : 3.68
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1424
+name : AnyDesk.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:59
+CPU %: 0.0
+Memory %: 0.258213995877005
+RSS (MB) : 19.62
+VMS (MB) : 21.43
+Threads : 7
+Open Files : 3
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1448
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:57:16
+CPU %: 0.0
+Memory %: 0.14488559999547715
+RSS (MB) : 11.01
+VMS (MB) : 4.37
+Threads : 10
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1556
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.021997529903534662
+RSS (MB) : 1.67
+VMS (MB) : 1.18
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1580
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.07431875757128767
+RSS (MB) : 5.65
+VMS (MB) : 3.59
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1588
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.14031134728189168
+RSS (MB) : 10.66
+VMS (MB) : 4.4
+Threads : 7
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1600
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.04384087151335297
+RSS (MB) : 3.33
+VMS (MB) : 2.52
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1728
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.08161700347386225
+RSS (MB) : 6.2
+VMS (MB) : 2.37
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:03
+--------------------------------------------------
+pid : 1736
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.09091969719474959
+RSS (MB) : 6.91
+VMS (MB) : 3.08
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 1744
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.07005288144513493
+RSS (MB) : 5.32
+VMS (MB) : 2.39
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 1800
+name : powershell.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:11
+CPU %: 0.0
+Memory %: 0.939160897026376
+RSS (MB) : 71.38
+VMS (MB) : 57.16
+Threads : 12
+Open Files : 7
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 1836
+name : svchost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:06:15
+CPU %: 0.0
+Memory %: 0.3464096998827655
+RSS (MB) : 26.33
+VMS (MB) : 7.75
+Threads : 4
+Open Files : 7
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 1848
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.1625658576749536
+RSS (MB) : 12.36
+VMS (MB) : 3.61
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 1900
+name : pet.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:10
+CPU %: 0.0
+Memory %: 0.0953397616146187
+RSS (MB) : 7.25
+VMS (MB) : 2.14
+Threads : 7
+Open Files : 5
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 1904
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.06239486285722216
+RSS (MB) : 4.74
+VMS (MB) : 2.87
+Threads : 13
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 1912
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:39:11
+CPU %: 0.0
+Memory %: 1.6931930493973038
+RSS (MB) : 128.69
+VMS (MB) : 80.66
+Threads : 17
+Open Files : 13
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 1924
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.026777367008741965
+RSS (MB) : 2.04
+VMS (MB) : 1.4
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 1996
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.10592735778314238
+RSS (MB) : 8.05
+VMS (MB) : 7.49
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2088
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.059722265766138496
+RSS (MB) : 4.54
+VMS (MB) : 2.09
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2156
+name : AsusOptimizationStartupTask.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:33
+CPU %: 0.0
+Memory %: 0.22706796054629944
+RSS (MB) : 17.26
+VMS (MB) : 3.36
+Threads : 7
+Open Files : 1
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2188
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.12242550521079339
+RSS (MB) : 9.3
+VMS (MB) : 3.74
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2204
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:09
+CPU %: 0.0
+Memory %: 0.11800544079092426
+RSS (MB) : 8.97
+VMS (MB) : 2.75
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2212
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.0650674599483058
+RSS (MB) : 4.95
+VMS (MB) : 4.02
+Threads : 9
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2228
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.21360218289507024
+RSS (MB) : 16.23
+VMS (MB) : 12.14
+Threads : 13
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2276
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.058180382828974864
+RSS (MB) : 4.42
+VMS (MB) : 2.27
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2360
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.14745540489074987
+RSS (MB) : 11.21
+VMS (MB) : 7.23
+Threads : 5
+Open Files : 2
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2444
+name : atiesrxx.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.03613145682753474
+RSS (MB) : 2.75
+VMS (MB) : 1.68
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2460
+name : amdfendrsr.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.029090191414487432
+RSS (MB) : 2.21
+VMS (MB) : 2.21
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2468
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.23955721233732494
+RSS (MB) : 18.21
+VMS (MB) : 19.66
+Threads : 6
+Open Files : 2
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2520
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.0495972344787639
+RSS (MB) : 3.77
+VMS (MB) : 5.09
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2632
+name : conhost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:10
+CPU %: 0.0
+Memory %: 0.13815271116986255
+RSS (MB) : 10.5
+VMS (MB) : 5.27
+Threads : 2
+Open Files : 1
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2688
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.0751924912356804
+RSS (MB) : 5.71
+VMS (MB) : 3.82
+Threads : 11
+Open Files : 6
+Timestamp : 2026-04-10 00:43:04
+--------------------------------------------------
+pid : 2776
+name : PhoneExperienceHost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 23:08:43
+CPU %: 0.0
+Memory %: 0.9792498533926308
+RSS (MB) : 74.43
+VMS (MB) : 48.77
+Threads : 21
+Open Files : 162
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 2864
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.08048628931994226
+RSS (MB) : 6.12
+VMS (MB) : 2.2
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 2916
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.04286434565314932
+RSS (MB) : 3.26
+VMS (MB) : 1.44
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 2932
+name : RichVideo64.exe
+username : None
+status : running
+start time : 2026-03-24 00:58:19
+CPU %: 0.0
+Memory %: 0.026109217735971052
+RSS (MB) : 1.98
+VMS (MB) : 1.52
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3024
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:08
+CPU %: 0.0
+Memory %: 0.35082976430263463
+RSS (MB) : 26.66
+VMS (MB) : 41.28
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3096
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:40:56
+CPU %: 0.0
+Memory %: 1.8221458590420898
+RSS (MB) : 138.49
+VMS (MB) : 85.47
+Threads : 17
+Open Files : 13
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3104
+name : Code.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:01
+CPU %: 0.0
+Memory %: 0.26355919005917233
+RSS (MB) : 20.03
+VMS (MB) : 10.36
+Threads : 8
+Open Files : 2
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3248
+name : dasHost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:09
+CPU %: 0.0
+Memory %: 0.1556273844577172
+RSS (MB) : 11.83
+VMS (MB) : 5.48
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3340
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:09
+CPU %: 0.0
+Memory %: 0.0937464825795496
+RSS (MB) : 7.12
+VMS (MB) : 2.73
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3348
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:09
+CPU %: 0.0
+Memory %: 0.026468990421309235
+RSS (MB) : 2.01
+VMS (MB) : 1.34
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3356
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:09
+CPU %: 0.0
+Memory %: 0.06465629116506216
+RSS (MB) : 4.91
+VMS (MB) : 2.18
+Threads : 7
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3444
+name : MemCompression
+username : None
+status : running
+start time : 2026-03-24 00:56:09
+CPU %: 0.5
+Memory %: 1.216802617911643
+RSS (MB) : 92.48
+VMS (MB) : 2.34
+Threads : 46
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3488
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:09
+CPU %: 0.0
+Memory %: 0.0724684980466913
+RSS (MB) : 5.51
+VMS (MB) : 1.95
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3516
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.08613986008954228
+RSS (MB) : 6.55
+VMS (MB) : 3.08
+Threads : 9
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3544
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:09
+CPU %: 0.0
+Memory %: 0.07693995856446587
+RSS (MB) : 5.85
+VMS (MB) : 2.26
+Threads : 9
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3552
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:09
+CPU %: 0.0
+Memory %: 0.07786508832676406
+RSS (MB) : 5.92
+VMS (MB) : 4.23
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3664
+name : RuntimeBroker.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:57
+CPU %: 0.0
+Memory %: 0.14432024291851714
+RSS (MB) : 10.97
+VMS (MB) : 2.06
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3856
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:09
+CPU %: 0.0
+Memory %: 0.07169755657810947
+RSS (MB) : 5.45
+VMS (MB) : 2.8
+Threads : 9
+Open Files : 12
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 3984
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.15783741666765178
+RSS (MB) : 12.0
+VMS (MB) : 6.61
+Threads : 11
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 4048
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.04317272224058205
+RSS (MB) : 3.28
+VMS (MB) : 1.48
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 4164
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.2100044560416884
+RSS (MB) : 15.96
+VMS (MB) : 5.54
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 4216
+name : Code.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:05
+CPU %: 0.0
+Memory %: 0.9465619351247614
+RSS (MB) : 71.94
+VMS (MB) : 86.38
+Threads : 28
+Open Files : 8
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 4252
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.054377071583971204
+RSS (MB) : 4.13
+VMS (MB) : 2.55
+Threads : 10
+Open Files : 0
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 4312
+name : RuntimeBroker.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:05:47
+CPU %: 0.0
+Memory %: 0.22126020148298303
+RSS (MB) : 16.82
+VMS (MB) : 4.96
+Threads : 13
+Open Files : 3
+Timestamp : 2026-04-10 00:43:05
+--------------------------------------------------
+pid : 4392
+name : msedgewebview2.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:06:58
+CPU %: 0.0
+Memory %: 0.20614974869877928
+RSS (MB) : 15.67
+VMS (MB) : 335.2
+Threads : 23
+Open Files : 36
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 4400
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:37:56
+CPU %: 0.8
+Memory %: 2.8772563529431716
+RSS (MB) : 218.68
+VMS (MB) : 163.07
+Threads : 20
+Open Files : 17
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 4580
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.24217841333050313
+RSS (MB) : 18.41
+VMS (MB) : 10.6
+Threads : 13
+Open Files : 0
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 4620
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 01:01:11
+CPU %: 0.0
+Memory %: 0.0340242168134111
+RSS (MB) : 2.59
+VMS (MB) : 1.83
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 4644
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:38:00
+CPU %: 0.0
+Memory %: 0.26047542418484504
+RSS (MB) : 19.8
+VMS (MB) : 13.06
+Threads : 11
+Open Files : 7
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 4696
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.10453966313969511
+RSS (MB) : 7.95
+VMS (MB) : 5.16
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 4768
+name : spoolsv.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.15865975423413903
+RSS (MB) : 12.06
+VMS (MB) : 7.25
+Threads : 7
+Open Files : 2
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 4912
+name : WhatsApp.Root.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:55
+CPU %: 0.0
+Memory %: 1.9291525348812468
+RSS (MB) : 146.62
+VMS (MB) : 122.77
+Threads : 37
+Open Files : 126
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 4916
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:40:31
+CPU %: 0.0
+Memory %: 0.947641253180776
+RSS (MB) : 72.02
+VMS (MB) : 32.57
+Threads : 16
+Open Files : 10
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 4972
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.2532799704780814
+RSS (MB) : 19.25
+VMS (MB) : 145.25
+Threads : 12
+Open Files : 0
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 5012
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.03957499538720022
+RSS (MB) : 3.01
+VMS (MB) : 1.85
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 5020
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 01:53:37
+CPU %: 0.0
+Memory %: 0.04014035246416022
+RSS (MB) : 3.05
+VMS (MB) : 6.52
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 5132
+name : RtkAudUService64.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.10587596168523694
+RSS (MB) : 8.05
+VMS (MB) : 4.73
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 5140
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.10731505242658967
+RSS (MB) : 8.16
+VMS (MB) : 2.41
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 5172
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.43409144290947144
+RSS (MB) : 32.99
+VMS (MB) : 28.21
+Threads : 11
+Open Files : 0
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 5280
+name : Intel_PIE_Service.exe
+username : None
+status : running
+start time : 2026-04-04 01:14:42
+CPU %: 0.0
+Memory %: 0.08526612642514955
+RSS (MB) : 6.48
+VMS (MB) : 29.16
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 5328
+name : sihost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:23
+CPU %: 0.0
+Memory %: 0.34851693989688914
+RSS (MB) : 26.49
+VMS (MB) : 6.71
+Threads : 12
+Open Files : 2
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 5348
+name : svchost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:24
+CPU %: 0.0
+Memory %: 0.4560889728130061
+RSS (MB) : 34.66
+VMS (MB) : 12.41
+Threads : 8
+Open Files : 7
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 5352
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.2318477976515067
+RSS (MB) : 17.62
+VMS (MB) : 9.26
+Threads : 6
+Open Files : 0
+Timestamp : 2026-04-10 00:43:06
+--------------------------------------------------
+pid : 5424
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.09811515090151325
+RSS (MB) : 7.46
+VMS (MB) : 2.51
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 5492
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.2120602999579066
+RSS (MB) : 16.12
+VMS (MB) : 5.99
+Threads : 9
+Open Files : 2
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 5540
+name : Code.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:01
+CPU %: 0.0
+Memory %: 0.4388712800146787
+RSS (MB) : 33.36
+VMS (MB) : 13.32
+Threads : 19
+Open Files : 16
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 5584
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.19037114664180466
+RSS (MB) : 14.47
+VMS (MB) : 8.06
+Threads : 10
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 5640
+name : NgcIso.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:10
+CPU %: 0.0
+Memory %: 0.008788732741832775
+RSS (MB) : 0.67
+VMS (MB) : 1.44
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 5728
+name : WmiPrvSE.exe
+username : None
+status : running
+start time : 2026-04-10 00:34:57
+CPU %: 0.0
+Memory %: 0.14930566441534626
+RSS (MB) : 11.35
+VMS (MB) : 3.0
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 5776
+name : ELANFPService.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.03422980120503291
+RSS (MB) : 2.6
+VMS (MB) : 1.52
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 5828
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.3864986562490203
+RSS (MB) : 29.38
+VMS (MB) : 25.7
+Threads : 18
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 5848
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.06594119361269854
+RSS (MB) : 5.01
+VMS (MB) : 2.67
+Threads : 8
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 5980
+name : armsvc.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.03109463923280017
+RSS (MB) : 2.36
+VMS (MB) : 1.35
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 5992
+name : AnyDesk.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.1913476725020083
+RSS (MB) : 14.54
+VMS (MB) : 21.99
+Threads : 5
+Open Files : 3
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6268
+name : ICEsoundService64.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.045228566156800244
+RSS (MB) : 3.44
+VMS (MB) : 2.77
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6280
+name : ibtsiva.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.0351549309673311
+RSS (MB) : 2.67
+VMS (MB) : 1.25
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6296
+name : AsusSoftwareManager.exe
+username : None
+status : running
+start time : 2026-04-08 00:00:33
+CPU %: 0.0
+Memory %: 0.218998773175143
+RSS (MB) : 16.64
+VMS (MB) : 6.02
+Threads : 11
+Open Files : 1
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6316
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.0911252815863714
+RSS (MB) : 6.93
+VMS (MB) : 2.72
+Threads : 5
+Open Files : 1
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6328
+name : Code.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:05
+CPU %: 0.0
+Memory %: 0.9642935889021433
+RSS (MB) : 73.29
+VMS (MB) : 82.11
+Threads : 27
+Open Files : 7
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6364
+name : RtkAudUService64.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 23:08:34
+CPU %: 0.0
+Memory %: 0.05026538375153481
+RSS (MB) : 3.82
+VMS (MB) : 4.34
+Threads : 7
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6456
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.055456389639985754
+RSS (MB) : 4.21
+VMS (MB) : 2.43
+Threads : 7
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6568
+name : mongod.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.3
+Memory %: 0.2721937345072888
+RSS (MB) : 20.69
+VMS (MB) : 315.43
+Threads : 36
+Open Files : 1
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6592
+name : mysqld.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.05340054572376756
+RSS (MB) : 4.06
+VMS (MB) : 21.29
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6764
+name : omtsreco.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.04060291734530931
+RSS (MB) : 3.09
+VMS (MB) : 6.16
+Threads : 4
+Open Files : 2
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6792
+name : MEGAsync.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:05:04
+CPU %: 0.3
+Memory %: 0.5966059044865196
+RSS (MB) : 45.34
+VMS (MB) : 96.52
+Threads : 35
+Open Files : 23
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6816
+name : RtkAudUService64.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.06748307654986219
+RSS (MB) : 5.13
+VMS (MB) : 7.46
+Threads : 47
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6828
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-27 00:34:52
+CPU %: 0.0
+Memory %: 0.14832913855514263
+RSS (MB) : 11.27
+VMS (MB) : 13.24
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6848
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.025955029442254682
+RSS (MB) : 1.97
+VMS (MB) : 1.62
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6896
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.024824315288334682
+RSS (MB) : 1.89
+VMS (MB) : 1.34
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6912
+name : Lavasoft.WCAssistant.WinService.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.09107388548846594
+RSS (MB) : 6.92
+VMS (MB) : 30.52
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 6952
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.1945342305721465
+RSS (MB) : 14.79
+VMS (MB) : 5.49
+Threads : 7
+Open Files : 1
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 7024
+name : tnslsnr.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.060955772115869424
+RSS (MB) : 4.63
+VMS (MB) : 12.12
+Threads : 3
+Open Files : 5
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 7040
+name : oravssw.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.0510877213180221
+RSS (MB) : 3.88
+VMS (MB) : 5.65
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:07
+--------------------------------------------------
+pid : 7176
+name : atieclxx.exe
+username : None
+status : running
+start time : 2026-04-09 02:44:21
+CPU %: 0.0
+Memory %: 0.2021922491600593
+RSS (MB) : 15.37
+VMS (MB) : 3.92
+Threads : 9
+Open Files : 0
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 7336
+name : BraveCrashHandler64.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:18
+CPU %: 0.0
+Memory %: 0.00287818148270547
+RSS (MB) : 0.22
+VMS (MB) : 1.67
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 7440
+name : OneDrive.Sync.Service.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:15:45
+CPU %: 0.0
+Memory %: 0.1540341054226481
+RSS (MB) : 11.7
+VMS (MB) : 52.8
+Threads : 19
+Open Files : 36
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 7476
+name : WidgetService.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:33
+CPU %: 0.0
+Memory %: 0.15305757956244445
+RSS (MB) : 11.63
+VMS (MB) : 4.48
+Threads : 4
+Open Files : 9
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 7492
+name : mysqld.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.046462072506531164
+RSS (MB) : 3.53
+VMS (MB) : 338.91
+Threads : 39
+Open Files : 8
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 7540
+name : conhost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.02405337381975286
+RSS (MB) : 1.83
+VMS (MB) : 5.55
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 7764
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.0
+Memory %: 0.08942921035549138
+RSS (MB) : 6.8
+VMS (MB) : 3.63
+Threads : 11
+Open Files : 0
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 7784
+name : AsusSwitch.exe
+username : None
+status : running
+start time : 2026-04-08 00:00:35
+CPU %: 0.0
+Memory %: 0.11528144760193516
+RSS (MB) : 8.76
+VMS (MB) : 1.89
+Threads : 7
+Open Files : 0
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 8092
+name : audiodg.exe
+username : None
+status : running
+start time : 2026-04-10 00:41:13
+CPU %: 0.0
+Memory %: 0.23760416061691764
+RSS (MB) : 18.06
+VMS (MB) : 8.98
+Threads : 7
+Open Files : 0
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 8124
+name : oracle.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:11
+CPU %: 0.3
+Memory %: 5.740944136039303
+RSS (MB) : 436.33
+VMS (MB) : 2724.92
+Threads : 70
+Open Files : 11
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 8160
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:34
+CPU %: 0.0
+Memory %: 0.06167531748654579
+RSS (MB) : 4.69
+VMS (MB) : 3.64
+Threads : 1
+Open Files : 2
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 8172
+name : svchost.exe
+username : None
+status : running
+start time : 2026-04-09 02:44:21
+CPU %: 0.0
+Memory %: 0.09205041134866959
+RSS (MB) : 7.0
+VMS (MB) : 1.44
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 8424
+name : AggregatorHost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:12
+CPU %: 0.0
+Memory %: 0.09025154792197868
+RSS (MB) : 6.86
+VMS (MB) : 5.23
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 8672
+name : WindowsPackageManagerServer.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:08:13
+CPU %: 0.0
+Memory %: 0.40289401148086035
+RSS (MB) : 30.62
+VMS (MB) : 8.27
+Threads : 6
+Open Files : 11
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 8688
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:37:53
+CPU %: 0.0
+Memory %: 3.608982598823132
+RSS (MB) : 274.29
+VMS (MB) : 145.41
+Threads : 48
+Open Files : 325
+Timestamp : 2026-04-10 00:43:08
+--------------------------------------------------
+pid : 8780
+name : msedgewebview2.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:57
+CPU %: 0.0
+Memory %: 0.7110650145219675
+RSS (MB) : 54.04
+VMS (MB) : 62.55
+Threads : 49
+Open Files : 142
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 8784
+name : UserOOBEBroker.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:09:42
+CPU %: 0.0
+Memory %: 0.12951816672174615
+RSS (MB) : 9.84
+VMS (MB) : 1.89
+Threads : 1
+Open Files : 2
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9048
+name : RuntimeBroker.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 23:08:46
+CPU %: 0.0
+Memory %: 0.43676404000055513
+RSS (MB) : 33.2
+VMS (MB) : 7.19
+Threads : 12
+Open Files : 7
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9064
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:37:53
+CPU %: 0.0
+Memory %: 0.7411317317966585
+RSS (MB) : 56.33
+VMS (MB) : 29.81
+Threads : 21
+Open Files : 97
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9116
+name : SecurityHealthService.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:23
+CPU %: 0.0
+Memory %: 0.22100322099345573
+RSS (MB) : 16.8
+VMS (MB) : 9.63
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9168
+name : svchost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:28
+CPU %: 0.0
+Memory %: 0.41646258132790037
+RSS (MB) : 31.65
+VMS (MB) : 7.3
+Threads : 9
+Open Files : 6
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9212
+name : BraveUpdate.exe
+username : None
+status : running
+start time : 2026-04-09 20:08:24
+CPU %: 0.0
+Memory %: 0.0033921424617600186
+RSS (MB) : 0.26
+VMS (MB) : 1.78
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9484
+name : StartMenuExperienceHost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:30
+CPU %: 0.0
+Memory %: 0.9079120694998595
+RSS (MB) : 69.0
+VMS (MB) : 55.46
+Threads : 17
+Open Files : 17
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9500
+name : conhost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:05
+CPU %: 0.2
+Memory %: 0.08665382106859683
+RSS (MB) : 6.59
+VMS (MB) : 1.28
+Threads : 5
+Open Files : 1
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9560
+name : SearchIndexer.exe
+username : None
+status : running
+start time : 2026-04-06 01:05:42
+CPU %: 0.4
+Memory %: 2.9090705375466483
+RSS (MB) : 221.1
+VMS (MB) : 304.04
+Threads : 11
+Open Files : 0
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9676
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:13
+CPU %: 0.0
+Memory %: 0.0576664218499203
+RSS (MB) : 4.38
+VMS (MB) : 1.72
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9760
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:58:19
+CPU %: 0.0
+Memory %: 0.2554386065901105
+RSS (MB) : 19.41
+VMS (MB) : 14.32
+Threads : 13
+Open Files : 8
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9848
+name : SearchHost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:30
+CPU %: 0.0
+Memory %: 0.5436679236439012
+RSS (MB) : 41.32
+VMS (MB) : 48.6
+Threads : 28
+Open Files : 22
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 9944
+name : svchost.exe
+username : None
+status : running
+start time : 2026-04-09 02:44:31
+CPU %: 0.0
+Memory %: 0.08439239276075682
+RSS (MB) : 6.41
+VMS (MB) : 1.14
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:09
+--------------------------------------------------
+pid : 10028
+name : SystemSettings.exe
+username : MITALI-PC\mital
+status : stopped
+start time : 2026-04-10 00:09:41
+CPU %: 0.0
+Memory %: 0.04157944320551295
+RSS (MB) : 3.16
+VMS (MB) : 123.3
+Threads : 45
+Open Files : 23
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 10412
+name : WmiPrvSE.exe
+username : None
+status : running
+start time : 2026-04-09 20:08:19
+CPU %: 0.0
+Memory %: 0.21098098190189207
+RSS (MB) : 16.04
+VMS (MB) : 5.2
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 10804
+name : AsusOptimization.exe
+username : None
+status : running
+start time : 2026-04-08 00:00:18
+CPU %: 0.0
+Memory %: 0.13476056870810255
+RSS (MB) : 10.24
+VMS (MB) : 2.27
+Threads : 11
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 10916
+name : Code.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:40:58
+CPU %: 0.0
+Memory %: 1.705887885579951
+RSS (MB) : 129.65
+VMS (MB) : 95.67
+Threads : 52
+Open Files : 62
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 10960
+name : csrss.exe
+username : None
+status : running
+start time : 2026-04-09 02:44:03
+CPU %: 0.0
+Memory %: 0.09163924256542595
+RSS (MB) : 6.96
+VMS (MB) : 3.17
+Threads : 15
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11020
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:39:32
+CPU %: 0.0
+Memory %: 1.2643954045720942
+RSS (MB) : 96.1
+VMS (MB) : 47.31
+Threads : 17
+Open Files : 12
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11048
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:16
+CPU %: 0.0
+Memory %: 0.16893897381523001
+RSS (MB) : 12.84
+VMS (MB) : 4.23
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11132
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:29
+CPU %: 0.2
+Memory %: 0.17104621382935364
+RSS (MB) : 13.0
+VMS (MB) : 8.4
+Threads : 16
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11144
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:19
+CPU %: 0.0
+Memory %: 0.1914504646978192
+RSS (MB) : 14.55
+VMS (MB) : 5.22
+Threads : 7
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11252
+name : ShellExperienceHost.exe
+username : MITALI-PC\mital
+status : stopped
+start time : 2026-04-10 00:05:47
+CPU %: 0.0
+Memory %: 0.3754484951993475
+RSS (MB) : 28.54
+VMS (MB) : 28.93
+Threads : 22
+Open Files : 11
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11276
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:40:54
+CPU %: 0.0
+Memory %: 0.6429651847972399
+RSS (MB) : 48.87
+VMS (MB) : 18.16
+Threads : 16
+Open Files : 9
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11320
+name : WUDFHost.exe
+username : None
+status : running
+start time : 2026-04-04 14:47:49
+CPU %: 0.0
+Memory %: 0.03751915147098202
+RSS (MB) : 2.85
+VMS (MB) : 2.35
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11368
+name : OfficeClickToRun.exe
+username : None
+status : running
+start time : 2026-04-06 01:03:28
+CPU %: 0.0
+Memory %: 0.5723469462751449
+RSS (MB) : 43.5
+VMS (MB) : 43.93
+Threads : 19
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11480
+name : BraveCrashHandler.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:18
+CPU %: 0.0
+Memory %: 0.0031351619722327444
+RSS (MB) : 0.24
+VMS (MB) : 1.71
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11588
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-31 02:46:58
+CPU %: 0.0
+Memory %: 0.026674574812931055
+RSS (MB) : 2.03
+VMS (MB) : 1.5
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11600
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:24
+CPU %: 0.0
+Memory %: 0.18230195927064827
+RSS (MB) : 13.86
+VMS (MB) : 21.48
+Threads : 8
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11620
+name : python.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:42:00
+CPU %: 55.2
+Memory %: 0.28565951215851787
+RSS (MB) : 21.72
+VMS (MB) : 13.71
+Threads : 4
+Open Files : 3
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11760
+name : svchost.exe
+username : None
+status : running
+start time : 2026-04-10 00:15:28
+CPU %: 0.0
+Memory %: 0.10145589726536781
+RSS (MB) : 7.71
+VMS (MB) : 1.63
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 11892
+name : msedgewebview2.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:57
+CPU %: 0.0
+Memory %: 0.08470076934818954
+RSS (MB) : 6.44
+VMS (MB) : 51.09
+Threads : 26
+Open Files : 3
+Timestamp : 2026-04-10 00:43:10
+--------------------------------------------------
+pid : 12004
+name : powershell.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:06
+CPU %: 0.0
+Memory %: 1.1134450650237733
+RSS (MB) : 84.62
+VMS (MB) : 68.5
+Threads : 12
+Open Files : 9
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 12260
+name : msedgewebview2.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:57
+CPU %: 0.0
+Memory %: 0.2284556551897467
+RSS (MB) : 17.36
+VMS (MB) : 14.45
+Threads : 19
+Open Files : 19
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 12352
+name : Code.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:02
+CPU %: 0.4
+Memory %: 3.2787626697805847
+RSS (MB) : 249.2
+VMS (MB) : 232.18
+Threads : 18
+Open Files : 48
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 12988
+name : msedgewebview2.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:57
+CPU %: 0.0
+Memory %: 0.03813590464584748
+RSS (MB) : 2.9
+VMS (MB) : 9.16
+Threads : 9
+Open Files : 13
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 13028
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:58:20
+CPU %: 0.0
+Memory %: 0.07401038098385494
+RSS (MB) : 5.62
+VMS (MB) : 2.77
+Threads : 6
+Open Files : 0
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 13040
+name : CastSrv.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 23:08:42
+CPU %: 0.0
+Memory %: 0.16868199332570272
+RSS (MB) : 12.82
+VMS (MB) : 4.8
+Threads : 8
+Open Files : 4
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 13068
+name : explorer.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:25
+CPU %: 0.0
+Memory %: 1.818342547797086
+RSS (MB) : 138.2
+VMS (MB) : 119.81
+Threads : 67
+Open Files : 42
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 13136
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:32
+CPU %: 0.0
+Memory %: 0.11666914224538244
+RSS (MB) : 8.87
+VMS (MB) : 3.71
+Threads : 7
+Open Files : 0
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 13272
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:58:20
+CPU %: 0.0
+Memory %: 0.07817346491419679
+RSS (MB) : 5.94
+VMS (MB) : 2.75
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 13336
+name : svchost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:24
+CPU %: 0.0
+Memory %: 0.12360761546261884
+RSS (MB) : 9.39
+VMS (MB) : 1.96
+Threads : 2
+Open Files : 1
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 13412
+name : fontdrvhost.exe
+username : None
+status : running
+start time : 2026-04-09 02:44:06
+CPU %: 0.0
+Memory %: 0.183741050012001
+RSS (MB) : 13.96
+VMS (MB) : 8.13
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 13632
+name : PDStyleAgent.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:34
+CPU %: 0.0
+Memory %: 0.08860687278900412
+RSS (MB) : 6.73
+VMS (MB) : 1.81
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 13732
+name : svchost.exe
+username : None
+status : running
+start time : 2026-04-06 00:51:55
+CPU %: 0.0
+Memory %: 0.08799011961413865
+RSS (MB) : 6.69
+VMS (MB) : 2.2
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 13860
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:37:57
+CPU %: 0.0
+Memory %: 1.4326148330166477
+RSS (MB) : 108.88
+VMS (MB) : 58.65
+Threads : 20
+Open Files : 11
+Timestamp : 2026-04-10 00:43:11
+--------------------------------------------------
+pid : 13972
+name : Code.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:01
+CPU %: 0.0
+Memory %: 1.4961918061256954
+RSS (MB) : 113.71
+VMS (MB) : 126.54
+Threads : 25
+Open Files : 4
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 14236
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:37:53
+CPU %: 0.0
+Memory %: 0.11795404469301882
+RSS (MB) : 8.96
+VMS (MB) : 6.73
+Threads : 9
+Open Files : 2
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 14272
+name : conhost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:10
+CPU %: 0.0
+Memory %: 0.13820410726776802
+RSS (MB) : 10.5
+VMS (MB) : 5.27
+Threads : 2
+Open Files : 1
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 14324
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:56:48
+CPU %: 0.0
+Memory %: 0.2715769813324233
+RSS (MB) : 20.64
+VMS (MB) : 10.9
+Threads : 5
+Open Files : 0
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 14468
+name : svchost.exe
+username : None
+status : running
+start time : 2026-03-24 00:58:20
+CPU %: 0.0
+Memory %: 0.04456041688402933
+RSS (MB) : 3.39
+VMS (MB) : 1.69
+Threads : 3
+Open Files : 2
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 14668
+name : SystemSettingsBroker.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:09:24
+CPU %: 0.0
+Memory %: 0.4566543298899661
+RSS (MB) : 34.71
+VMS (MB) : 8.38
+Threads : 16
+Open Files : 8
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 15320
+name : svchost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:31
+CPU %: 0.0
+Memory %: 0.2306142913017758
+RSS (MB) : 17.53
+VMS (MB) : 3.09
+Threads : 1
+Open Files : 6
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 15468
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:40:53
+CPU %: 0.0
+Memory %: 0.3728272942061693
+RSS (MB) : 28.34
+VMS (MB) : 14.99
+Threads : 12
+Open Files : 9
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 15604
+name : svchost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:23
+CPU %: 0.0
+Memory %: 0.1257148554767425
+RSS (MB) : 9.55
+VMS (MB) : 2.14
+Threads : 3
+Open Files : 2
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 15972
+name : WebexHost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:46
+CPU %: 0.0
+Memory %: 0.2601156514995069
+RSS (MB) : 19.77
+VMS (MB) : 7.8
+Threads : 4
+Open Files : 3
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 16180
+name : dwm.exe
+username : None
+status : running
+start time : 2026-04-09 02:44:04
+CPU %: 3.6
+Memory %: 0.8941379152611976
+RSS (MB) : 67.96
+VMS (MB) : 99.96
+Threads : 17
+Open Files : 0
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 16208
+name : conhost.exe
+username : None
+status : running
+start time : 2026-04-04 01:14:42
+CPU %: 0.0
+Memory %: 0.019581913301978286
+RSS (MB) : 1.49
+VMS (MB) : 5.19
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 16428
+name : MsMpEng.exe
+username : None
+status : running
+start time : 2026-03-27 00:09:42
+CPU %: 1.1
+Memory %: 3.021216823176351
+RSS (MB) : 229.62
+VMS (MB) : 338.89
+Threads : 40
+Open Files : 0
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 16456
+name : AsusSoftwareManagerAgent.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:07:24
+CPU %: 0.0
+Memory %: 0.26715691691255417
+RSS (MB) : 20.3
+VMS (MB) : 36.95
+Threads : 7
+Open Files : 0
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 16492
+name : pet.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:10
+CPU %: 0.0
+Memory %: 0.09559674210414597
+RSS (MB) : 7.27
+VMS (MB) : 2.23
+Threads : 7
+Open Files : 5
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 16896
+name : winlogon.exe
+username : None
+status : running
+start time : 2026-04-09 02:44:03
+CPU %: 0.0
+Memory %: 0.15187546931061902
+RSS (MB) : 11.54
+VMS (MB) : 2.44
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 17084
+name : mega-desktop-app-gfxworker.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:05:07
+CPU %: 0.0
+Memory %: 0.17546627824922276
+RSS (MB) : 13.34
+VMS (MB) : 28.01
+Threads : 9
+Open Files : 2
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 17188
+name : MpDefenderCoreService.exe
+username : None
+status : running
+start time : 2026-03-27 00:09:42
+CPU %: 0.0
+Memory %: 0.22681098005677214
+RSS (MB) : 17.24
+VMS (MB) : 12.34
+Threads : 9
+Open Files : 1
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 17228
+name : RuntimeBroker.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:31
+CPU %: 0.0
+Memory %: 0.447146051777457
+RSS (MB) : 33.98
+VMS (MB) : 7.22
+Threads : 13
+Open Files : 5
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 17284
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:37:57
+CPU %: 0.0
+Memory %: 5.782009618265762
+RSS (MB) : 439.45
+VMS (MB) : 386.45
+Threads : 22
+Open Files : 21
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 17320
+name : LockApp.exe
+username : MITALI-PC\mital
+status : stopped
+start time : 2026-04-09 23:08:46
+CPU %: 0.0
+Memory %: 0.545363994874781
+RSS (MB) : 41.45
+VMS (MB) : 14.82
+Threads : 15
+Open Files : 7
+Timestamp : 2026-04-10 00:43:12
+--------------------------------------------------
+pid : 17388
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:38:00
+CPU %: 0.0
+Memory %: 0.48708081984999535
+RSS (MB) : 37.02
+VMS (MB) : 20.39
+Threads : 12
+Open Files : 12
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 17520
+name : smartscreen.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:37:53
+CPU %: 0.0
+Memory %: 0.222956272713863
+RSS (MB) : 16.95
+VMS (MB) : 4.0
+Threads : 8
+Open Files : 4
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 17588
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:37:53
+CPU %: 0.0
+Memory %: 2.7626430546140073
+RSS (MB) : 209.97
+VMS (MB) : 268.78
+Threads : 31
+Open Files : 3
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 17888
+name : NisSrv.exe
+username : None
+status : running
+start time : 2026-03-27 00:09:54
+CPU %: 0.0
+Memory %: 0.06866518680168764
+RSS (MB) : 5.22
+VMS (MB) : 4.09
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 18040
+name : ApplicationFrameHost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:09:41
+CPU %: 0.0
+Memory %: 0.4026370309913331
+RSS (MB) : 30.6
+VMS (MB) : 12.71
+Threads : 2
+Open Files : 5
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 18168
+name : Code.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:03
+CPU %: 0.0
+Memory %: 1.101212793722275
+RSS (MB) : 83.7
+VMS (MB) : 109.23
+Threads : 30
+Open Files : 9
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 18208
+name : wlanext.exe
+username : None
+status : running
+start time : 2026-04-04 01:14:42
+CPU %: 0.0
+Memory %: 0.04060291734530931
+RSS (MB) : 3.09
+VMS (MB) : 2.02
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 18264
+name : RuntimeBroker.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:51
+CPU %: 0.0
+Memory %: 0.15166988491899716
+RSS (MB) : 11.53
+VMS (MB) : 2.18
+Threads : 1
+Open Files : 0
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 18444
+name : AsusSystemAnalysis.exe
+username : None
+status : running
+start time : 2026-04-08 00:00:18
+CPU %: 0.0
+Memory %: 0.20650952138411746
+RSS (MB) : 15.7
+VMS (MB) : 3.69
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 18468
+name : svchost.exe
+username : None
+status : running
+start time : 2026-04-09 00:09:14
+CPU %: 0.0
+Memory %: 0.10135310506955691
+RSS (MB) : 7.7
+VMS (MB) : 2.26
+Threads : 5
+Open Files : 4
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 18740
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:37:53
+CPU %: 0.9
+Memory %: 1.2036966129457518
+RSS (MB) : 91.48
+VMS (MB) : 61.74
+Threads : 19
+Open Files : 9
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 18804
+name : taskhostw.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:24
+CPU %: 0.0
+Memory %: 0.29521918636893246
+RSS (MB) : 22.44
+VMS (MB) : 9.88
+Threads : 9
+Open Files : 11
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 19020
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:39:11
+CPU %: 0.0
+Memory %: 0.621738596362287
+RSS (MB) : 47.25
+VMS (MB) : 18.15
+Threads : 16
+Open Files : 9
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 19248
+name : conhost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:10
+CPU %: 0.0
+Memory %: 0.08536891862096047
+RSS (MB) : 6.49
+VMS (MB) : 1.23
+Threads : 5
+Open Files : 1
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 19368
+name : svchost.exe
+username : None
+status : running
+start time : 2026-04-09 02:44:25
+CPU %: 0.0
+Memory %: 0.6629068707845562
+RSS (MB) : 50.38
+VMS (MB) : 74.87
+Threads : 26
+Open Files : 0
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 19452
+name : dllhost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 23:08:37
+CPU %: 0.0
+Memory %: 0.12072943397991337
+RSS (MB) : 9.18
+VMS (MB) : 1.42
+Threads : 2
+Open Files : 0
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 19756
+name : AsusOSD.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:49
+CPU %: 0.0
+Memory %: 0.1839466344036228
+RSS (MB) : 13.98
+VMS (MB) : 2.71
+Threads : 2
+Open Files : 1
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 19924
+name : ctfmon.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 23:08:45
+CPU %: 0.0
+Memory %: 0.35900174386960193
+RSS (MB) : 27.29
+VMS (MB) : 7.01
+Threads : 12
+Open Files : 0
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 20356
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:37:53
+CPU %: 0.0
+Memory %: 0.26155474224085956
+RSS (MB) : 19.88
+VMS (MB) : 10.34
+Threads : 12
+Open Files : 48
+Timestamp : 2026-04-10 00:43:13
+--------------------------------------------------
+pid : 20416
+name : Widgets.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:32
+CPU %: 0.0
+Memory %: 0.5549750651831011
+RSS (MB) : 42.18
+VMS (MB) : 8.88
+Threads : 8
+Open Files : 15
+Timestamp : 2026-04-10 00:43:14
+--------------------------------------------------
+pid : 20436
+name : chrome.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:39:11
+CPU %: 0.0
+Memory %: 0.9691248221052561
+RSS (MB) : 73.66
+VMS (MB) : 32.12
+Threads : 16
+Open Files : 10
+Timestamp : 2026-04-10 00:43:14
+--------------------------------------------------
+pid : 20492
+name : dllhost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 20:08:34
+CPU %: 0.0
+Memory %: 0.16924735040266273
+RSS (MB) : 12.86
+VMS (MB) : 3.63
+Threads : 6
+Open Files : 4
+Timestamp : 2026-04-10 00:43:14
+--------------------------------------------------
+pid : 20508
+name : msedgewebview2.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:57
+CPU %: 0.0
+Memory %: 0.10577316948942603
+RSS (MB) : 8.04
+VMS (MB) : 2.31
+Threads : 7
+Open Files : 1
+Timestamp : 2026-04-10 00:43:14
+--------------------------------------------------
+pid : 20512
+name : CrossDeviceService.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:04:49
+CPU %: 0.0
+Memory %: 0.7147655335711602
+RSS (MB) : 54.32
+VMS (MB) : 25.86
+Threads : 15
+Open Files : 136
+Timestamp : 2026-04-10 00:43:14
+--------------------------------------------------
+pid : 20680
+name : TextInputHost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 23:08:37
+CPU %: 0.0
+Memory %: 1.05264348120162
+RSS (MB) : 80.0
+VMS (MB) : 84.09
+Threads : 43
+Open Files : 35
+Timestamp : 2026-04-10 00:43:14
+--------------------------------------------------
+pid : 20752
+name : Code.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:41:12
+CPU %: 0.0
+Memory %: 8.115906424152465
+RSS (MB) : 616.83
+VMS (MB) : 684.98
+Threads : 15
+Open Files : 16
+Timestamp : 2026-04-10 00:43:14
+--------------------------------------------------
+pid : 20848
+name : svchost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-09 23:08:46
+CPU %: 0.0
+Memory %: 0.15372572883521538
+RSS (MB) : 11.68
+VMS (MB) : 2.21
+Threads : 1
+Open Files : 1
+Timestamp : 2026-04-10 00:43:14
+--------------------------------------------------
+pid : 21052
+name : svchost.exe
+username : MITALI-PC\mital
+status : running
+start time : 2026-04-10 00:09:25
+CPU %: 0.0
+Memory %: 0.12869582915525887
+RSS (MB) : 9.78
+VMS (MB) : 1.63
+Threads : 2
+Open Files : 1
+Timestamp : 2026-04-10 00:43:14
+--------------------------------------------------
+pid : 21084
+name : AsusAppService.exe
+username : None
+status : running
+start time : 2026-04-08 00:00:35
+CPU %: 0.0
+Memory %: 0.15958488399643722
+RSS (MB) : 12.13
+VMS (MB) : 5.07
+Threads : 4
+Open Files : 0
+Timestamp : 2026-04-10 00:43:14
+--------------------------------------------------
+pid : 21320
+name : svchost.exe
+username : None
+status : running
+start time : 2026-04-10 00:30:54
+CPU %: 0.0
+Memory %: 0.08125723078852408
+RSS (MB) : 6.18
+VMS (MB) : 1.19
+Threads : 3
+Open Files : 0
+Timestamp : 2026-04-10 00:43:14
+--------------------------------------------------
+================ TOP 10 MEMORY PROCESSES ================
+Name : Code.exe | PID : 20752 | Memory % : 8.12 | RSS : 616.83 MB
+Name : chrome.exe | PID : 17284 | Memory % : 5.78 | RSS : 439.45 MB
+Name : oracle.exe | PID : 8124 | Memory % : 5.74 | RSS : 436.33 MB
+Name : chrome.exe | PID : 8688 | Memory % : 3.61 | RSS : 274.29 MB
+Name : Code.exe | PID : 12352 | Memory % : 3.28 | RSS : 249.2 MB
+Name : Code.exe | PID : 576 | Memory % : 3.10 | RSS : 235.96 MB
+Name : MsMpEng.exe | PID : 16428 | Memory % : 3.02 | RSS : 229.62 MB
+Name : SearchIndexer.exe | PID : 9560 | Memory % : 2.91 | RSS : 221.1 MB
+Name : chrome.exe | PID : 4400 | Memory % : 2.88 | RSS : 218.68 MB
+Name : chrome.exe | PID : 17588 | Memory % : 2.76 | RSS : 209.97 MB
+--------------------------------------------------
+----------------End of log file-------------------
+--------------------------------------------------
